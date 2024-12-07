@@ -1,0 +1,49 @@
+body {
+	margin:10% 20%;
+	font-family:Newsreader, serif;
+	font-size:18px;
+}
+
+.title {
+	font-family: Newsreader, Carrois Gothic, serif;
+	font-size:40px;
+	width:350px;
+}
+
+.title2 {
+	font-family:Newsreader, Carrois Gothic, serif;
+	font-size:26px;
+	margin:100px 0 7px 10px;
+}
+
+.subtitle {
+	font-family:Newsreader, Carrois Gothic, serif;
+	font-style:italic;
+	width:1000px;
+	margin:0 0 40px 10px;
+}
+
+.box {
+	width:600px;
+	line-height:1.2;
+	margin:15px 0;
+}
+
+.photo {
+	
+}
+
+.caption {
+	font-style:italic;
+	font-size:14px;
+	width:600px;
+	margin:3px 0;
+}
+
+.star {
+	text-align:center;
+	font-family: Carrois Gothic, sans-serif;
+	font-weight:bold;
+	width:600px;
+	margin:100px 0;
+}
