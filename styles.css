@@ -22,6 +22,11 @@ body {
 	margin-bottom:100px;
 }
 
+.adobe {
+	font-family:Adobe Caslon, Newsreader, serif;
+	src:url('ACaslonPro-Regular.otf');
+}
+
 .box {
 	width:80%;
 	line-height:1.2;
