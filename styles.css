@@ -62,6 +62,9 @@ a {
 		margin:10% 5%;
 	}
 	.box {
-		width:100%;
+		width:95%;
+	}
+	.caption {
+		width:95%
 	}
 }
