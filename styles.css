@@ -24,7 +24,7 @@ body {
 
 .adobe {
 	font-family:Adobe Caslon Pro, Newsreader, serif;
-	src:url('ACaslonPro-Regular.otf');
+	src:url('../ACaslonPro-Regular.otf') format('opentype');
 }
 
 .box {
