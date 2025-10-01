@@ -60,14 +60,6 @@ a:hover {
 	font-style:italic;
 }
 
-.homepage a {
-	color:#000000;
-}
-
-.homepage a:hover {
-	color:#6082B6;
-}
-
 @media screen and (max-width:400px) {
 	body {
 		margin:10% 5%;
