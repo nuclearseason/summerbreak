@@ -27,6 +27,11 @@ body {
 	src:url('../../ACaslonPro-Regular.otf') format('opentype');
 }
 
+.bakersignet {
+	font-family:Baker Signet Std, Newsreader, serif;
+	src:url('../../BakerSignetStd.otf') format('opentype');
+}
+
 .box {
 	width:80%;
 	line-height:1.2;
