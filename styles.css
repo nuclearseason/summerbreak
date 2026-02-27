@@ -22,18 +22,13 @@ body {
 	margin-bottom:100px;
 }
 
-.tnr {
-	font-family:Times New Roman, Newsreader, serif;
-}
-
 .adobe {
 	font-family:Adobe Caslon Pro, Newsreader, serif;
 	src:url('../../ACaslonPro-Regular.otf') format('opentype');
 }
 
-.bakersignet {
-	font-family:Baker Signet, Newsreader, serif;
-	src:url('../../BakerSignetStd.otf') format('opentype');
+.instrument {
+	font-family:Instrument Sans, Newsreader, serif;
 }
 
 .box {
