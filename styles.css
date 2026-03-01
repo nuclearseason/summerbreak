@@ -9,6 +9,11 @@ body {
 	src:url('../../ITCGaramondStd-LtNarrow.otf') format('opentype');
 }
 
+@font-face {
+	font-family: 'Timeless';
+	src:url('../../Timeless.ttf') format('truetype');
+}
+
 .sidebar {
 	width:100px;
 	dispaly:absolute;
@@ -16,7 +21,7 @@ body {
 }
 
 .title {
-	font-family: Newsreader, serif;
+	font-family: 'ITC Garamond', Newsreader, serif;
 	font-size:40px;
 	margin-bottom:5px;
 }
