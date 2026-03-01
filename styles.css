@@ -54,6 +54,10 @@ body {
 	src:url('../../ACaslonPro-Regular.otf') format('opentype');
 }
 
+.timeless {
+	font-family:'Timeless', 'ITC Garamond', Newsreader, serif;
+}
+
 .box {
 	width:80%;
 	line-height:1.2;
