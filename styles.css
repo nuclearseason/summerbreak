@@ -20,7 +20,7 @@ body {
 
 @font-face {
 	font-family:'ITC Garamond';
-	src:url('../../ITCGaramondStd-Bk.otf') format('opentype');
+	src:url('../../ITCGaramondStd-BkNarrow.otf') format('opentype');
 	font-weight:bold;
 	font-style:normal;
 }
