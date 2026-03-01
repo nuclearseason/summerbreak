@@ -28,7 +28,7 @@ body {
 }
 
 .bakersignet {
-	font-family:'Baker Signet Std', Newsreader, serif;
+	font-family:'Baker Signet Std', Arial Narrow, serif;
 	src:url('../../BakerSignetStd.otf') format('opentype');
 }
 
