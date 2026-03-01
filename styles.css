@@ -28,6 +28,15 @@ body {
 @font-face {
 	font-family:'Timeless';
 	src:url('../../Timeless.ttf') format('truetype');
+	font-weight:normal;
+	font-style:normal;
+}
+
+@font-face {
+	font-family:'Timeless';
+	src:url('../../ITCGaramondStd-LtNarrowIta.otf') format('opentype');
+	font-weight:normal;
+	font-style:italic;
 }
 
 .sidebar {
