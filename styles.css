@@ -113,10 +113,6 @@ a:hover {
 	font-style:italic;
 }
 
-br.22 {
-	margin-bottom:30px;
-}
-
 @media screen and (max-width:400px) {
 	body {
 		margin:10% 5%;
