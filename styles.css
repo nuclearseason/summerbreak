@@ -48,9 +48,9 @@ body {
 
 @font-face {
 	font-family:'Adobe Caslon';
-	font-style:italic;
-	font-weight:normal;
 	src:url('../../ACaslonPro-Italic.otf') format('opentype');
+	font-weight:normal;
+	font-style:italic;
 }
 
 .sidebar {
