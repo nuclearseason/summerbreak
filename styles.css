@@ -104,6 +104,11 @@ body {
 	margin:200px 0;
 }
 
+.halfstar {
+	text-align:center;
+	margin:100px 0;
+}
+
 a {
 	text-decoration:none;
 	color:#6082B6;
