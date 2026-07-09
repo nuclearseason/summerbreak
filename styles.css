@@ -96,7 +96,7 @@ body {
 
 .gifted {
 	font-family:'Ehrhardt', 'ITC Garamond', serif;
-	width:500px;
+	width:70%;
 	line-height:1.4;
 	margin:15px 0;
 	text-indent:25px;
@@ -144,10 +144,7 @@ a:hover {
 	body {
 		margin:10% 5%;
 	}
-	.box {
+	.box, .caption, .gifted{
 		width:95%;
-	}
-	.caption {
-		width:95%
 	}
 }
