@@ -53,6 +53,20 @@ body {
 	font-style:italic;
 }
 
+@font-face {
+	font-family:'Ehrhardt';
+	src:url('../../EhrhardtMTStd-Regular.otf') format('opentype');
+	font-weight:normal;
+	font-style:normal;
+}
+
+@font-face {
+	font-family:'Ehrhardt';
+	src:url('../../EhrhardtMTStd-Italic.otf') format('opentype');
+	font-weight:normal;
+	font-style:italic;
+}
+
 .sidebar {
 	width:100px;
 	dispaly:absolute;
@@ -79,6 +93,10 @@ body {
 .timeless {
 	font-family:'Timeless', 'ITC Garamond', Newsreader, serif;
 }
+
+.gifted {
+	font-family:'Ehrhardt', 'ITC Garamond', serif;
+}	
 
 .box {
 	width:80%;
